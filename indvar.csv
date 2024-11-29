@@ -1,4 +1,4 @@
-﻿firm,year,quarter,total_assets,liabilities,current_liabilities,cash_and_cash_equivalents,revenue,profit-after_tax,size,lev,roa,cashratio,revenue_yoy
+﻿ticker,year,quarter,total_assets,liabilities,current_liabilities,cash_and_cash_equivalents,revenue,profit-after_tax,size,lev,roa,cashratio,revenue_yoy
 CMG,2024,3,7.69655E+12,4.25133E+12,3.22234E+12,5.36522E+11,2.18451E+12,61050888486,12.89,55.24%,0.79%,16.65%,22.33%
 CMG,2024,2,7.30354E+12,3.86293E+12,2.92682E+12,4.7487E+11,1.79366E+12,83226280864,12.86,52.89%,1.14%,16.22%,1.19%
 CMG,2024,1,6.92226E+12,3.58066E+12,2.73274E+12,5.25856E+11,1.64922E+12,43478543809,12.84,51.73%,0.63%,19.24%,-10.16%
